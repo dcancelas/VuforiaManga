@@ -6,6 +6,6 @@ Además cuenta con una opción para mostrar un modelo 3d relacionado con el mang
 Puedes descargar la apliación y los targets desde [aquí](https://github.com/dcancelas/VuforiaManga/releases).
 
 ## Targets
-<img src="Assets/Targets/eva13.jpg" width="550" height="873"/>
-<img src="Assets/Targets/op49.jpg" width="550" height="873"/>
-<img src="Assets/Targets/hxh19.jpg" width="550" height="873"/>
+<img src="Assets/Targets/eva13.jpg" width="400" height="598"/>
+<img src="Assets/Targets/op49.jpg" width="400" height="629"/>
+<img src="Assets/Targets/hxh19.jpg" width="400" height="631"/>
