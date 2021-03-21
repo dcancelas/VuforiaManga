@@ -3,7 +3,7 @@ La aplicación reconoce portadas de diferentes mangas mostrando información sob
 Además cuenta con una opción para mostrar un modelo 3d relacionado con el manga en cuestión.
 
 ## Descargas
-Puedes descargar la apliación y los targets desde [aquí](https://github.com/dcancelas/simon-says/releases).
+Puedes descargar la apliación y los targets desde [aquí](https://github.com/dcancelas/VuforiaManga/releases).
 
 ## Targets
 <img src="Assets/Targets/eva13.jpg" width="550" height="873"/>
